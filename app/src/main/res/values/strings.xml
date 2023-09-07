@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="movie_title">Movie title</string>
+    <string name="thumbnails">thumbnails</string>
+    <string name="popular_videos">Popular Videos</string>
+    <string name="todo">TODO</string>
+    <string name="trending_now">Trending Now</string>
+    <string name="watch_it_again">Watch it Again</string>
+</resources>
