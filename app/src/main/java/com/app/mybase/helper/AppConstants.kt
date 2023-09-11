@@ -5,9 +5,9 @@ object AppConstants {
 
     const val POSITION = "position"
     const val VIDEO_LIST = "videoList"
-    const val SEEK_TIME = "seekTime"
-    const val MEDIA_ITEM = "mediaItem"
     const val TRENDING = "trending"
     const val WATCH_AGAIN = "watchAgain"
+    const val SEARCH = "search"
+    const val DOWNLOAD = "Download"
 
 }

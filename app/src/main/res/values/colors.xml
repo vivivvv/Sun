@@ -11,4 +11,5 @@
     <color name="semi_transparent">#D2B5B5B5</color>
     <color name="dark">#121212</color>
     <color name="slideIndicator">#FF9800</color>
+    <color name="light_dark">#74000000</color>
 </resources>

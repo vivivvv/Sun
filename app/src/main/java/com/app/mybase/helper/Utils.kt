@@ -3,11 +3,15 @@ package com.app.mybase.helper
 import android.annotation.SuppressLint
 import android.content.Context
 import android.content.Intent
+import android.net.Uri
 import android.os.Build
 import android.os.Build.VERSION.SDK_INT
 import android.os.Parcelable
+import android.provider.Settings
 import android.util.Log
 import android.widget.ImageView
+import androidx.appcompat.app.AlertDialog
+import androidx.core.content.ContextCompat.startActivity
 import com.app.mybase.R
 import com.app.mybase.model.ResponseData
 import com.app.mybase.model.Video

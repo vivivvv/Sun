@@ -1,9 +1,34 @@
 <resources>
     <string name="app_name">Movies</string>
     <string name="movie_title">Movie title</string>
+    <string name="description_title">Description title</string>
     <string name="thumbnails">thumbnails</string>
     <string name="popular_videos">Popular Videos</string>
     <string name="todo">TODO</string>
     <string name="trending_now">Trending Now</string>
     <string name="watch_it_again">Watch it Again</string>
+    <string name="title_of_video">Title of video</string>
+    <string name="background_icon">Background Icon</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="downloads">Downloads</string>
+    <string name="more">More</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="search_here">Search here …</string>
+    <string name="upcoming_videos">Upcoming videos</string>
+    <string name="more_details">More Details Page</string>
+    <string name="zoom">Zoom</string>
+    <string name="scaling">Scaling</string>
+    <string name="night">Night</string>
+    <string name="mute">Mute</string>
+    <string name="rotate">Rotate</string>
+    <string name="less">Less</string>
+    <string name="popup">Popup</string>
+    <string name="fit">Fit</string>
+    <string name="day">Day</string>
+    <string name="full">Full</string>
+    <string name="unMute">Unmute</string>
+    <string name="download_videos">Download videos</string>
+
 </resources>
